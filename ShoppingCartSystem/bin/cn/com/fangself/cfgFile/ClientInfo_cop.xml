@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_112" class="java.beans.XMLDecoder">
+	<ClientInfo>
+		<Clients>
+			<ID>Fang</ID>
+			<PWD>3604545</PWD>
+			<IDCardInfo>36072419951030501545221355465</IDCardInfo>
+			<RegitStock>13245.1</RegitStock>
+			<GoodsKindsNum>10</GoodsKindsNum>
+		</Clients>
+		<Clients>
+			<ID>JXAU</ID>
+			<PWD>JXAU2015</PWD>
+			<IDCardInfo>362125123456781234</IDCardInfo>
+			<RegitStock>12455.0</RegitStock>
+			<GoodsKindsNum>100</GoodsKindsNum>
+		</Clients>
+	</ClientInfo>
+</java>
