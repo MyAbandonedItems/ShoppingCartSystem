@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_112" class="java.beans.XMLDecoder">
+	<GoodsInfo>
+		<Goods>
+			<CustomInfo>
+				<ID>car</ID>
+				<PWD>21312</PWD>
+			</CustomInfo>
+			<Gname>Fang</Gname>
+			<Gprice>12.4</Gprice>
+			<Gamount>10</Gamount>
+			<Gremain>100</Gremain>
+			<GID>123132131</GID>
+		</Goods>
+	</GoodsInfo>
+</java>

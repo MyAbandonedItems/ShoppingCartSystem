@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ClientInfo>
+	<Clients>
+		<ID>FYP</ID>
+		<PWD>123456</PWD>
+		<IDCardInfo>360724123456785018</IDCardInfo>
+		<RegitStock>120000</RegitStock>
+		<GoodsKindsNum>10</GoodsKindsNum>
+	</Clients>
+<Clients><ID>VIP</ID><PWD> 360724</PWD><IDCardInfo>123145646</IDCardInfo><RegitStock>100.0</RegitStock><GoodsKindsNum>1231</GoodsKindsNum></Clients><Clients><ID> </ID><PWD> </PWD><IDCardInfo> </IDCardInfo><RegitStock>-0.01</RegitStock><GoodsKindsNum>0</GoodsKindsNum></Clients><Clients><ID>VIP</ID><PWD> 360724</PWD><IDCardInfo>123145646</IDCardInfo><RegitStock>100.0</RegitStock><GoodsKindsNum>1231</GoodsKindsNum></Clients><Clients><ID>FYP</ID><PWD>123456</PWD><IDCardInfo>360724123456785018</IDCardInfo><RegitStock>120000.0</RegitStock><GoodsKindsNum>10</GoodsKindsNum></Clients><Clients><ID>FYP</ID><PWD>123456</PWD><IDCardInfo>360724123456785018</IDCardInfo><RegitStock>120000.0</RegitStock><GoodsKindsNum>10</GoodsKindsNum></Clients><Clients><ID>FYP</ID><PWD>123456</PWD><IDCardInfo>360724123456785018</IDCardInfo><RegitStock>120000.0</RegitStock><GoodsKindsNum>10</GoodsKindsNum></Clients></ClientInfo>
